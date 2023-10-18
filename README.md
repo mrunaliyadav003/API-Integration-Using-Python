@@ -40,14 +40,6 @@ api-framework-python/
 ├─ README.md
 ```
 
-## 🚀 Test Execution:
-
-- [Fork](https://github.com/ashikkumar23/api-framework-python/fork) and Clone the repository https://github.com/ashikkumar23/api-framework-python
-- Open [Pycharm](https://www.jetbrains.com/pycharm/) (or any IDE) > File > Open > Open the project where the repository is located (i.e., `../api-framework-python`)
-- On the `Pycharm` terminal, navigate to the `tests` directory via `cd tests`
-- Make sure a one-time [Installation](https://github.com/ashikkumar23/api-framework-python#-installation-steps) is performed before executing the tests
-- On the `Pycharm` terminal, run the command: `python -m pytest -v`
-
 ## 🚀 Installation Steps:
 
 - For Mac: Install `pipenv` via `homebrew`
